@@ -2,7 +2,7 @@
 
 **English information below ⬇️**
 
-## PT-BR 🇧🇷
+## PORTUGUÊS (Brasil)
 
 ### para quarteto de cordas  
 **Duração:** ~10 min
@@ -32,7 +32,7 @@ Este trabalho está licenciado sob a [Creative Commons Attribution 4.0 Internati
 
 ---
 
-## ENGLISH 🇬🇧
+## ENGLISH
 
 ### for string quartet  
 **Duration:** ~10 min
