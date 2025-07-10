@@ -32,6 +32,8 @@ Este trabalho está licenciado sob a [Creative Commons Attribution 4.0 Internati
 
 ---
 
+# Op. 7: A Jornada do Tolo (THe Fool's Journey)
+
 ## ENGLISH
 
 ### for string quartet  
