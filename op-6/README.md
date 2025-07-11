@@ -1,4 +1,4 @@
-# Op. 6: Variations for a Gentleman (Variações para um Gentleman)
+# Op. 6: Variations for a Gentleman (Variações para um *Gentleman*)
 
 **English information below ⬇️**
 
@@ -7,7 +7,7 @@
 ### para violão e violoncelo  
 **Duração:** ~2 min 40 s
 
-*Variations for a Gentleman* (Variações para um Gentleman), para violão e violoncelo, é uma peça dedicada ao meu querido amigo Alan M. Wing. A obra consiste na apresentação de um tema (essencialmente *Españoleta* de Gaspar Sanz, com algumas pequenas modificações) e quatro variações, nas quais o protagonismo alterna entre o violão e o violoncelo. O título da peça e o uso da *Españoleta* como base para as variações são inspirados na *Fantasía para un Gentilhombre*, de Joaquín Rodrigo, cujo segundo movimento também se baseia nessa obra de Gaspar Sanz.
+*Variations for a Gentleman* (Variações para um *Gentleman*), para violão e violoncelo, é uma peça dedicada ao meu querido amigo Alan M. Wing. A obra consiste na apresentação de um tema (essencialmente *Españoleta* de Gaspar Sanz, com algumas pequenas modificações) e quatro variações, nas quais o protagonismo alterna entre o violão e o violoncelo. O título da peça e o uso da *Españoleta* como base para as variações são inspirados na *Fantasía para un Gentilhombre*, de Joaquín Rodrigo, cujo segundo movimento também se baseia nessa obra de Gaspar Sanz.
 
 ### Arquivos disponíveis
 * Partitura completa (grade)
