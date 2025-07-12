@@ -12,14 +12,10 @@
 *Arnediad Dim* significa "escadaria sem fim" em Sindarin, um idioma ficcional criado por J. R. R. Tolkien, e em sua literatura é o idioma mais falado pelos elfos da Terceira Era na Terra-Média, época e local nos quais ocorrem os eventos das obras O Hobbit e O Senhor dos Anéis. A analogia se dá por conta de dois momentos cruciais da história de O Senhor dos Anéis nos quais os personagens passaram por longas e perigosas escadarias, a saber: a batalha do mago Gandalf com um Balrog, cuja parte final ocorreu na longa escada circular que vai das profundezas das minas de Moria até o topo da montanha de Zirakzigil; e a chegada de Frodo, Sam e Sméagol até a passagem de Cirith Ungol, que se dá através de uma longa e escura escadaria que parte das proximidades da perigosa cidade de Minas Morgul. Caso alguém tentasse subir uma escada descrita pela função de Cantor, ela teria infinitos degraus, sendo, portanto, interminável.
 
 ### Interpretações
-* Estreada no VII Congresso Internacional em Música e Matemática, pela pianista [Tamara Ujakova](https://musica.ufrj.br/gestao/docentes/professor/57):
+* Estreada no VII Congresso Internacional em Música e Matemática, pela pianista [Tamara Ujakova](https://musica.ufrj.br/gestao/docentes/professor/57): assista [aqui](https://www.youtube.com/embed/IKE3Icar8CY?si=dLBbFoQYucYpVOwW&amp;start=3279)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IKE3Icar8CY?si=dLBbFoQYucYpVOwW&amp;start=3279" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-* Executada ao vivo, também por Tamara, no XXX Panorama da Música Brasileira Atual:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zjdi6O0EjXM?si=TKO-ARh2JlBDcRLG&amp;start=1452" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+* Executada ao vivo, também por Tamara, no XXX Panorama da Música Brasileira Atual: assista [aqui](https://www.youtube.com/embed/Zjdi6O0EjXM?si=TKO-ARh2JlBDcRLG&amp;start=1452)
+  
 ### Arquivos disponíveis
 * Partitura
 
@@ -45,13 +41,9 @@ Este trabalho está licenciado sob a [Creative Commons Attribution 4.0 Internati
 *Arnediad Dim* means "endless staircase" in Sindarin, a fictional language created by J. R. R. Tolkien, which, in his literary universe, is the most widely spoken Elvish language during the Third Age of Middle-earth, the era and setting of The Hobbit and The Lord of the Rings. The analogy arises from two crucial moments in The Lord of the Rings in which the characters traverse long and perilous staircases: namely, the battle between the wizard Gandalf and a Balrog, whose final stage takes place on a vast spiral staircase rising from the depths of Moria to the peak of Zirakzigil; and the arrival of Frodo, Sam, and Sméagol at the pass of Cirith Ungol, reached by a long and dark stairway starting near the ominous city of Minas Morgul. If someone were to climb a staircase described by the Cantor function, it would have infinitely many steps, and thus, be endless.
 
 ### Performances
-* Premiered at the VII International MusMat Conference, by pianist [Tamara Ujakova](https://musica.ufrj.br/gestao/docentes/professor/57):
+* Premiered at the VII International MusMat Conference, by pianist [Tamara Ujakova](https://musica.ufrj.br/gestao/docentes/professor/57): watch [here](https://www.youtube.com/embed/IKE3Icar8CY?si=dLBbFoQYucYpVOwW&amp;start=3279)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IKE3Icar8CY?si=dLBbFoQYucYpVOwW&amp;start=3279" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-* Performed live, also by Tamara, on the XXX Panorama da Música Brasileira Atual (30th Showcase of New Brazilian Music), one of the most important events of contemporary concert music in Brazil:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zjdi6O0EjXM?si=TKO-ARh2JlBDcRLG&amp;start=1452" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+* Performed live, also by Tamara, on the XXX Panorama da Música Brasileira Atual (30th Showcase of New Brazilian Music), one of the most important events of contemporary concert music in Brazil: watch [here](https://www.youtube.com/embed/Zjdi6O0EjXM?si=TKO-ARh2JlBDcRLG&amp;start=1452)
 
 ### Available files
 * Full score
