@@ -14,7 +14,7 @@
 ### Interpretações
 * Estreada no VII Congresso Internacional em Música e Matemática, pela pianista [Tamara Ujakova](https://musica.ufrj.br/gestao/docentes/professor/57): assista [aqui](https://www.youtube.com/embed/IKE3Icar8CY?si=dLBbFoQYucYpVOwW&amp;start=3279)
 
-* Executada ao vivo, também por Tamara, no XXX Panorama da Música Brasileira Atual: assista [aqui](https://www.youtube.com/embed/Zjdi6O0EjXM?si=TKO-ARh2JlBDcRLG&amp;start=1452)
+* Executada ao vivo, também por Tamara, no XXX Panorama da Música Brasileira Atual: assista [aqui](https://www.youtube.com/embed/Zjdi6O0EjXM?si=TKO-ARh2JlBDcRLG&amp;start=696)
   
 ### Arquivos disponíveis
 * Partitura
@@ -43,7 +43,7 @@ Este trabalho está licenciado sob a [Creative Commons Attribution 4.0 Internati
 ### Performances
 * Premiered at the VII International MusMat Conference, by pianist [Tamara Ujakova](https://musica.ufrj.br/gestao/docentes/professor/57): watch [here](https://www.youtube.com/embed/IKE3Icar8CY?si=dLBbFoQYucYpVOwW&amp;start=3279)
 
-* Performed live, also by Tamara, on the XXX Panorama da Música Brasileira Atual (30th Showcase of New Brazilian Music), one of the most important events of contemporary concert music in Brazil: watch [here](https://www.youtube.com/embed/Zjdi6O0EjXM?si=TKO-ARh2JlBDcRLG&amp;start=1452)
+* Performed live, also by Tamara, on the XXX Panorama da Música Brasileira Atual (30th Showcase of New Brazilian Music), one of the most important events of contemporary concert music in Brazil: watch [here](https://www.youtube.com/embed/Zjdi6O0EjXM?si=TKO-ARh2JlBDcRLG&amp;start=696)
 
 ### Available files
 * Full score
