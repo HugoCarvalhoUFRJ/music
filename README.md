@@ -6,6 +6,7 @@
 
 ### Índice 📖
 * [Op. 1: *Arnediad Dim*](/op-1/), para piano solo
+* [Op. 2: *Neldë Cormar*](/op-2/), para violão solo
 * [Op. 5: *Sombras e Espelhos*](/op-5/), para quinteto de metais
 * [Op. 6: *Variations for a Gentleman (Variações para um Gentleman)*](/op-6/), para violão e violoncelo
 * [Op. 7: *A Jornada do Tolo*](/op-7/), para quarteto de cordas
@@ -21,6 +22,7 @@ Todas minhas composições estão sob a licença Creative Commons **CC-BY 4.0**.
 
 ### Index 📖
 * [Op. 1: *Arnediad Dim*](/op-1/), for solo piano
+* [Op. 2: *Neldë Cormar*](/op-2/), for solo guitar
 * [Op. 5: *Sombras e Espelhos (Shadows and Mirrors)*](/op-5/), for brass quintet
 * [Op. 6: *Variations for a Gentleman*](/op-6/), for guitar and violoncello
 * [Op. 7: *A Jornada do Tolo (The Fool's Journey)*](/op-7/), for string quartet
